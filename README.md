@@ -22,4 +22,4 @@ See [Design App project](http://github.com/spopp/design-app)
 * This project installs and usees biopython for genome processing
 * The Scripts folder was directly downloaded from the biopython project and contains GUI applications for processing genome files.
 
-See [Gnome project](http://github.com/spopp/genome)
+See [Genome project](http://github.com/spopp/genome)
