@@ -4,11 +4,11 @@
 When I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild from the content in Markdown files.
 
 
-## Sudoku startup
+## Sudoku (early stages)
 
-* Angular app - the start of a Sudoku game
+* Angular app - the beginning of a Sudoku game written with Angular
 
-See [Design-App Code](http://github.com/spopp/sudoku)
+See [Sudoku Code](http://github.com/spopp/sudoku)
 
 
 ## Material Design Angular App
