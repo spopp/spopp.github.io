@@ -3,7 +3,15 @@
 
 When I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild from the content in Markdown files.
 
-## Design App
+
+## Sudoku startup
+
+* Angular app - the start of a Sudoku game
+
+See [Design-App Code](http://github.com/spopp/sudoku)
+
+
+## Material Design Angular App
 
 * The latest Material Design with Angular
 
@@ -11,7 +19,7 @@ Live Demo [Design-App - Github Pages](https://spopp.github.io/design-app)
 
 See [Design-App Code](http://github.com/spopp/design-app)
 
-## Notify Project Deployed
+## Notify Project
 
 * An older experiment with Angular and Material Design
 
