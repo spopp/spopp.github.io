@@ -4,6 +4,16 @@
 When I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild from the content in Markdown files.
 
 
+## Image Transform Project
+
+* Quick experimental scripts to perform image file manipulations in Python3
+* Development Platform: Linux Mint 18.3 Sylvia
+* setup.sh installs required software on linux and a virtual environment for Python3
+* Read the README.md file on the github webpage shown below
+
+See [Image Transform project](http://github.com/spopp/image-transform)
+
+
 ## Sudoku (early stages)
 
 * Angular app - the beginning of a Sudoku game written with Angular
@@ -19,6 +29,7 @@ Live Demo [Design-App - Github Pages](https://spopp.github.io/design-app)
 
 See [Design-App Code](http://github.com/spopp/design-app)
 
+
 ## Notify Project
 
 * An older experiment with Angular and Material Design
@@ -27,11 +38,3 @@ Live Demo [Notify - Github Pages](https://spopp.github.io/notify)
 
 See [Notify Code](http://github.com/spopp/notify)
 
-
-## Genome Project
-
-
-* This project installs and usees biopython for genome processing
-* The Scripts folder was directly downloaded from the biopython project and contains GUI applications for processing genome files.
-
-See [Genome project](http://github.com/spopp/genome)
