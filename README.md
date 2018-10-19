@@ -4,12 +4,14 @@
 When I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild from the content in Markdown files.
 
 
-## Image Transform Project
+## Image Transform
 
 * Quick experimental scripts to perform image file manipulations in Python3
 * Development Platform: Linux Mint 18.3 Sylvia
 * setup.sh installs required software on linux and a virtual environment for Python3
 * Read the README.md file on the github webpage shown below
+
+Live Demo - in Jupyter Notebook: [Spectrum.ipynb](https://mybinder.org/v2/gh/spopp/image-transform/master?filepath=Spectrum.ipynb)
 
 See [Image Transform project](http://github.com/spopp/image-transform)
 
